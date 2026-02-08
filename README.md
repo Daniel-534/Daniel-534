@@ -13,6 +13,7 @@ Interesado en física teórica, ciencia de datos y programación competitiva.
 **Herramientas:** Git, Linux, Jupyter, $\TeX$
 
 ### 📊 Estadísticas de GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-534&show_icons=true&theme=transparent)
 ![Estadísticas de racha](https://streak-stats.demolab.com/?user=Daniel-534&theme=dark&hide_border=true)
 
 ### 📫 Contacto
