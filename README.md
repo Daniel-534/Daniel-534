@@ -4,7 +4,7 @@
 Interesado en física teórica, ciencia de datos y programación competitiva.
 
 ### 🔬 Áreas de Interés
-- **Académico:** Física teórica, Álgebra, análisis de datos científicos.
+- **Académico:** Física teórica, álgebra, teoría de números, análisis de datos científicos.
 - **Técnico:** Machine learning, minería de datos, algoritmos.
 - **Competitivo:** Resolución de problemas algorítmicos (C++, Python).
 
@@ -13,8 +13,7 @@ Interesado en física teórica, ciencia de datos y programación competitiva.
 **Herramientas:** Git, Linux, Jupyter, $\TeX$
 
 ### 📊 Estadísticas de GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-534&show_icons=true&theme=transparent)
-![Estadísticas de racha](https://streak-stats.demolab.com/?user=Daniel-534&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Daniel-534&theme=highcontrast&hide_border=true&locale=es&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ### 📫 Contacto
 - **Correo:** [dnsv.001@gmail.com](mailto:dnsv.001@gmail.com.com)
