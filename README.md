@@ -1,16 +1,20 @@
-## Hi there 👋
-Test
-<!--
-**Daniel-534/Daniel-534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Daniel Soto
 
-Here are some ideas to get you started:
+**Estudiante de Astronomía** | Universidad de Antioquia  
+Interesado en física teórica, ciencia de datos y programación competitiva.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Áreas de Interés
+- **Académico:** Física teórica, Álgebra, análisis de datos científicos.
+- **Técnico:** Machine learning, minería de datos, algoritmos.
+- **Competitivo:** Resolución de problemas algorítmicos (C++, Python).
+
+### 💻 Tecnologías
+**Lenguajes:** Python, C/C++  
+**Herramientas:** Git, Linux, Jupyter, $\TeX$
+
+### 📊 Estadísticas de GitHub
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-534&layout=compact&theme=dark&hide_border=true&exclude_repo=github-readme-stats)
+
+### 📫 Contacto
+- **Correo:** [dnsv.001@gmail.com](mailto:dnsv.001@gmail.com.com)
