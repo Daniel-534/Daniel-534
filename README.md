@@ -13,8 +13,7 @@ Interesado en física teórica, ciencia de datos y programación competitiva.
 **Herramientas:** Git, Linux, Jupyter, $\TeX$
 
 ### 📊 Estadísticas de GitHub
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-534&layout=compact&theme=dark&hide_border=true&exclude_repo=github-readme-stats)
+![Estadísticas de racha](https://streak-stats.demolab.com/?user=Daniel-534&theme=dark&hide_border=true)
 
 ### 📫 Contacto
 - **Correo:** [dnsv.001@gmail.com](mailto:dnsv.001@gmail.com.com)
