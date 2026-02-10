@@ -10,7 +10,7 @@ Interesado en física teórica, ciencia de datos y programación competitiva.
 
 ### 💻 Tecnologías
 **Lenguajes:** Python, C/C++  
-**Herramientas:** Git, Linux, Jupyter, $\TeX$
+**Herramientas:** Git, Linux, Jupyter, $\LaTeX$
 
 ### 📊 Estadísticas de GitHub
 [![GitHub Streak](https://streak-stats.demolab.com?user=Daniel-534&theme=highcontrast&hide_border=true&locale=es&hide_longest_streak=true)](https://git.io/streak-stats)
